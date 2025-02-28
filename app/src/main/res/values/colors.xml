@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- Priority color definitions -->
+    <color name="priority1">#8BC34A</color> <!-- Low priority -->
+    <color name="priority2">#CDDC39</color>
+    <color name="priority3">#FFEB3B</color>
+    <color name="priority4">#FF9800</color>
+    <color name="priority5">#F44336</color> <!-- High priority -->
 </resources>
